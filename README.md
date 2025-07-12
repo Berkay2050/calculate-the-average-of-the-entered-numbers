@@ -1,0 +1,1 @@
+# calculate-the-average-of-the-entered-numbers
